@@ -7,7 +7,6 @@ Please refer to the [contributors data](https://github.com/newton-physics/newton
 Not listing Project Members that also serve as Maintainers.
 
 * Christopher Crouzet
-* Miles Macklin
 * Andrew Kaufman
 * Andre Pradhana
 * Kelly Guo
@@ -45,6 +44,7 @@ Not listing Project Members that also serve as Maintainers.
 * Eric Heiden
 * Philipp Reist
 * Vassilios Tsounis
+* Miles Macklin
 
 # TSC Members
 

@@ -10,32 +10,34 @@ Not listing Project Members that also serve as Maintainers.
 * Andrew Kaufman
 * Andre Pradhana
 * Kelly Guo
-* Adam Moravanszky
 * Michael Sauter  
+* Adam Moravanszky
 * Ossama Ahmed  
-* Anka Chen  
+* Anka Chen
+* Ales Borovicka
+* Gordon Yeoman
 * Zach Corse
 * Dylan Turpin
 * Antoine Richard
 * Lukasz Wawrzyniak
 * Viktor Reutskyy
+* Wenchao Huang
 * Gabriel Noya
-* Zach Bowman  
-* Gilles Daviet  
-* Tobias Widmer  
-* JC Chang  
+* Gilles Daviet
+* Akhil Docca
+* Tobias Widmer
+* JC Chang
 * Alain Denzler
 * Teresa Conceicao
 * Ruchik Thaker  
 * Kenny Vilella  
 * Milad Rakhsha
 * Neelakantan Mani
-* Julie Postlethwaite  
 * Julia von Muralt
 * Ryan Gresia
 * Chris Amevor  
 * Miguel Zamora
-
+* Lennart Roestel
 
 # Maintainers
 

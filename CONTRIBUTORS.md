@@ -38,6 +38,11 @@ Not listing Project Members that also serve as Maintainers.
 * Chris Amevor  
 * Miguel Zamora
 * Lennart Roestel
+* Guirec Maloisel 
+* Christian Schumacher
+* Ruben Grandia
+* Agon Serifi
+* David Müller
 
 # Maintainers
 

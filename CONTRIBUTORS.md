@@ -22,7 +22,6 @@ Not listing Project Members that also serve as Maintainers.
 * Lukasz Wawrzyniak
 * Viktor Reutskyy
 * Wenchao Huang
-* Gabriel Noya
 * Gilles Daviet
 * Akhil Docca
 * Tobias Widmer

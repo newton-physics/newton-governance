@@ -42,6 +42,8 @@ Not listing Project Members that also serve as Maintainers.
 * Ruben Grandia
 * Agon Serifi
 * David Müller
+* Lou Rohan
+* Yutaka Yoshisaka
 
 # Maintainers
 

@@ -26,10 +26,8 @@ Not listing Project Members that also serve as Maintainers.
 * Akhil Docca
 * Tobias Widmer
 * JC Chang
-* Alain Denzler
 * Teresa Conceicao
-* Ruchik Thaker  
-* Kenny Vilella  
+* Ruchik Thaker
 * Milad Rakhsha
 * Neelakantan Mani
 * Julia von Muralt
@@ -41,7 +39,7 @@ Not listing Project Members that also serve as Maintainers.
 * Christian Schumacher
 * Ruben Grandia
 * Agon Serifi
-* David Müller
+* David Cao-Müller
 * Lou Rohan
 * Yutaka Yoshisaka
 
@@ -53,6 +51,8 @@ Not listing Project Members that also serve as Maintainers.
 * Philipp Reist
 * Vassilios Tsounis
 * Miles Macklin
+* Alain Denzler
+* Kenny Vilella
 
 # TSC Members
 
@@ -60,5 +60,5 @@ Not listing Project Members that also serve as Maintainers.
 * Vassilios Tsounis - co-chair
 * Yuval Tassa
 * Erik Frey
-* Mohammad Mohajerani
-* Philipp Reist - co-chair
+* Mohammad Mohajerani - co-chair
+* Miles Macklin

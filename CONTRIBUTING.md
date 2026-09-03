@@ -24,7 +24,15 @@ Newton uses [EasyCLA](https://lfcla.com/) for managing CLAs, which automatically
 
 * If you are an individual writing the code on your own time and you're SURE you are the sole owner of any intellectual property you contribute, you can sign the CLA as [an individual contributor](https://docs.linuxfoundation.org/lfx/easycla/contributors/individual-contributor) (ICLA).
 
-* If you are writing the code as part of your job, or if there is any possibility that your employers might think they own any intellectual property you create, then you should use the [Corporate Contributor](https://docs.linuxfoundation.org/lfx/easycla/contributors/corporate-contributor) License Agreement (CCLA).
+### Corporate Contributions
+
+If you contribute as part of your employment, or your employer may own the intellectual property you contribute, you must use the Linux Foundation's [Corporate Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/contributors/corporate-contributor) (CCLA) rather than an ICLA.
+
+Opening a pull request against an EasyCLA-enabled Newton repository triggers the EasyCLA check. If authorization is required, the check displays a prompt and a link to the EasyCLA Contributor Console. Select the corporate contributor workflow there; you do not need to find a separate registration page before opening your pull request.
+
+There is no Newton-maintained list of eligible companies. Your organization must be listed in LFX EasyCLA for the Newton project and must complete Newton's CCLA before its employees can contribute under that agreement. If your organization is not listed, follow the Linux Foundation's [corporate contributor workflow](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/corporate-contributor#if-your-company-is-not-in-the-list) to add it and identify the representative authorized to coordinate the CCLA signing process.
+
+After the CCLA is signed, your organization's CLA Manager must add you to its approved contributor list, and you must acknowledge your association with the organization. Newton maintainers cannot sign a CCLA or authorize employees on behalf of a contributing organization.
 
 The Newton CLAs are the standard forms used by Linux Foundation projects and [recommended by the ASWF TAC](https://tac.aswf.io/process/contributing.html#contributor-license-agreement-cla). The Newton ICLA and CCLA are available in the [legal subfolder](legal).
 

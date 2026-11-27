@@ -4,8 +4,14 @@
 
 We value the security of our code and the safety of our users. If you discover a security vulnerability in any repository within the **newton-physics** GitHub organization, or in any of our dependencies, we encourage you to report it.
 
-- Please use the **Security** tab in the relevant GitHub repository to submit your vulnerability report.  
-- This process ensures your report is handled confidentially and reaches the appropriate maintainers.
+Please keep potential vulnerabilities out of public issues, pull requests, and
+discussions.
+
+If the affected repository offers **Report a vulnerability** in its
+**Security** tab, use that form. Otherwise, open
+[newton-governance’s security advisories](https://github.com/newton-physics/newton-governance/security/advisories),
+select **Report a vulnerability**, and name the affected repository in your
+report.
 
 ## Our Commitment
 
